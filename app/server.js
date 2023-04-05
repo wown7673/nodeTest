@@ -16,7 +16,8 @@ app.use('/', home);
 // 미들웨어 등록
 // __dirname : 현재 이 파일이 있는 위치 
 // 정적파일들은 아래 경로를 기본 경로로 설정함
-//app.use(express.static(__dirname+'/src/public'));  
+app.use(express.static(__dirname+'/src/public'));  
+//app.use(express.static('public'));  
 
 
 // 뷰 설정
