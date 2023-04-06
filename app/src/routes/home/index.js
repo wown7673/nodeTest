@@ -7,10 +7,9 @@ const router = express.Router();
 const ctrl = require("./home.ctrl");
 
 
-router.get('/', ctrl.home);
-
-
-router.get('/login', ctrl.login);
+router.get('/', ctrl.views.home);
+router.get('/login', ctrl.views.login);
+router.post('/login', ctrl.process.login);
 
 
 // 외부에서 접근가능하게 빼줌

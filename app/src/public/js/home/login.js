@@ -12,20 +12,20 @@ console.log('hello');
 btn.addEventListener("click", login);
 
 function login(){
-    const req = {
+    const data = {
         id : id.value,
         pw : pw.value,
     };
-    console.log(req);
-    console.log(JSON.stringify(req));
     
+    console.log(JSON.stringify(data));
+
     fetch("/login",{
         method: "POST",
         headers: {
             "Content-Type" : "application/json",
         },
-        body : JSON.stringify(req)
-    })
+        body: JSON.stringify(data),
+    });
 
 
     
