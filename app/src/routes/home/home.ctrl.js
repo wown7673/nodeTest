@@ -4,6 +4,13 @@
 //     res.render('home/index');
 // }
 
+// DB 대신...
+const users ={
+     id : ['111','222','333'],
+     pw : ['7673','7674','7675'],
+
+    //idPw : {'111':'7673', '222':'7674', '333':'7675'}
+};
 
 const views ={
     home : (req,res) =>{ res.render('home/index'); },
@@ -12,10 +19,21 @@ const views ={
 
 const process ={
     login : (req, res) => {
-        console.log(111);
-        console.log(req);
-
-        console.log(req.body);
+        const id = req.body.id;
+        const pw = req.body.pw;
+        
+        if( users.id.includes(id)){
+            const idx = users.id.indexOf(id);
+            if(pw == users.pw[idx]){
+                return res.json({
+                    success : true
+                });
+            }
+        }
+       return res.json({
+        success :false,
+        message : "로그인 실패"
+       });
     },
 };
  
