@@ -40,7 +40,7 @@ function login(){
         if( res.success){
             location.href = '/';
         }else{
-            alert(res.message);
+            alert(res.msg);
         }
     })
     .catch((err)=>{

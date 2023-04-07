@@ -1,39 +1,20 @@
 "use strict"
 
-// const home(req,res){
-//     res.render('home/index');
-// }
+const User = require('../../model/User.js');
 
-// DB 대신...
-const users ={
-     id : ['111','222','333'],
-     pw : ['7673','7674','7675'],
-
-    //idPw : {'111':'7673', '222':'7674', '333':'7675'}
-};
 
 const views ={
     home : (req,res) =>{ res.render('home/index'); },
     login : (req,res) =>{ res.render('home/login'); },
 };
 
+
+
 const process ={
     login : (req, res) => {
-        const id = req.body.id;
-        const pw = req.body.pw;
-        
-        if( users.id.includes(id)){
-            const idx = users.id.indexOf(id);
-            if(pw == users.pw[idx]){
-                return res.json({
-                    success : true
-                });
-            }
-        }
-       return res.json({
-        success :false,
-        message : "로그인 실패"
-       });
+        const user = new User(req.body);
+        const response = user.login();
+        return res.json(response);
     },
 };
  
