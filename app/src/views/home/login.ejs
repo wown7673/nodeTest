@@ -4,16 +4,35 @@
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <!-- <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+        <meta http-equiv="Pragma" content="no-cache">
+        <meta http-equiv="Expires" content="0">  -->
 
+        <link rel="stylesheet" href="/css/home/login.css">
         <script src="/js/home/login.js" defer></script>
         <title>Document</title>
     </head>
     <body>
-        <!-- inp치고 탭키누르면 자동완성 -->
-        <!-- inp*2 치고 탭 누르면 input 2개 자동완성 -->
-    
-        <input type="text" name="" id="id" placeholder="아이디"><br>
-        <input type="text" name="" id="pw" placeholder="비밀번호"><br>
-        <button id="btn">로그인</button>
+        <div class="login-page">
+            <div class="form">
+              <!-- register-form은 현재 display:none으로 되어있음 필요할때 수정해서 사용하면됨 -->
+              <form class="register-form">
+                <input type="text" placeholder="name"/>
+                <input type="password" placeholder="password"/>
+                <input type="text" placeholder="email address"/>
+                <button>create</button>
+                <p class="message">Already registered? <a href="#">Sign In</a></p>
+              </form>
+              <form class="login-form">
+                <input id="id" type="text" placeholder="아이디"/>
+                <input id="pw" type="password" placeholder="비밀번호"/>
+                <button id="btn">login</button>
+                <p class="message">Not registered? <a href="#">Create an account</a></p>
+              </form>
+            </div>
+          </div>
     </body>
     </html>
+
+
+    <!-- Copyright (c) 2023 by Aigars Silkalns (https://codepen.io/colorlib/pen/rxddKy) -->
