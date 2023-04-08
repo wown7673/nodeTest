@@ -12,9 +12,9 @@ const views ={
 
 
 const process ={
-    login : async (req, res) => {
+    login : (req, res) => {
         const user = new User(req.body);
-        const response = await user.login();
+        const response = user.login();
         return res.json(response);   
     },
 
