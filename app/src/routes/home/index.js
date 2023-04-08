@@ -11,7 +11,7 @@ router.get('/', ctrl.views.home);
 router.get('/login', ctrl.views.login);
 router.get('/register', ctrl.views.register);
 router.post('/login', ctrl.process.login);
-
+router.post('/register', ctrl.process.register);
 
 // 외부에서 접근가능하게 빼줌
 module.exports = router;
