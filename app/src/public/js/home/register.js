@@ -17,9 +17,12 @@ function register(e){
         return alert("아이디가 비어있음");
     }
 
+    console.log(pw.value,confirmPw.value);
     if(pw.value != confirmPw.value){
+        
         return alert("비밀번호가 일치하지 않음");
     }
+
 
     e.preventDefault();
     const data = {

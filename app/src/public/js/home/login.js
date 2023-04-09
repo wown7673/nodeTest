@@ -17,7 +17,7 @@ function login(){
         id : id.value,
         pw : pw.value,
     };
-    console.log(data);
+    //console.log(data);
     //console.log(JSON.stringify(data));
 
 

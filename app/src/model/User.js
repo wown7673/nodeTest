@@ -24,11 +24,15 @@ class User {
     }
 
 
-    register(){
+    async register() {
         const client = this.body;
         //const signUpinfo = {id : body.id, name : body.name1, pw : body.pw, confirmPw : body.confirmPw};
-        const response = UserStorage.saveUser(client);
-        return response;
+        try {
+            const response = await UserStorage.saveUser(client);
+            return response;
+        } catch (err) {
+            return { success: false, msg: err }
+        }
     }
 }
 
