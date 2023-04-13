@@ -4,7 +4,8 @@
 const express = require('express');
 //const bodyParser = require("body-parser"); // -> express 내장으로 바뀜!
 const app =  express();
-
+const dotenv = require('dotenv');
+dotenv.config();
 
 // 라우팅
 const home = require("./src/routes/home");

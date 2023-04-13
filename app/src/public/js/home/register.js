@@ -51,4 +51,4 @@ function register(e){
         console.error(new Error("가입 중 에러 발생!"));  // console.error이나 new Error 둘중 하나만쓰면됨 
     });
 
-}
+} 
