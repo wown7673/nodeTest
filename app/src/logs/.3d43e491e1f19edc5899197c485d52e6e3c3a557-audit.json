@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "C:\\dev\\nodejsTest1\\app\\src\\logs\\.3d43e491e1f19edc5899197c485d52e6e3c3a557-audit.json",
+    "files": [
+        {
+            "date": 1681557485357,
+            "name": "C:\\dev\\nodejsTest1\\app\\src\\logs\\2023-04-15.exception.log",
+            "hash": "c59eb88f5afd3159bded2d9f0a648ce4e3dbbce1e3b19aa3f496d2f8eb9ba575"
+        }
+    ],
+    "hashType": "sha256"
+}
