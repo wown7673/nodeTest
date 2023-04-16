@@ -6,14 +6,9 @@
     "auditLog": "C:\\dev\\nodejsTest1\\app\\src\\logs\\.3d43e491e1f19edc5899197c485d52e6e3c3a557-audit.json",
     "files": [
         {
-            "date": 1681557485357,
-            "name": "C:\\dev\\nodejsTest1\\app\\src\\logs\\2023-04-15.exception.log",
-            "hash": "c59eb88f5afd3159bded2d9f0a648ce4e3dbbce1e3b19aa3f496d2f8eb9ba575"
-        },
-        {
-            "date": 1681572071346,
+            "date": 1681635445821,
             "name": "C:\\dev\\nodejsTest1\\app\\src\\logs\\2023-04-16.exception.log",
-            "hash": "3775b06caa8f414ac83008980fa5065e1c4e7780f1d343ee7b08fe7578557881"
+            "hash": "03d5549fe5a4f2097a9cfd9b1dceb17061ce2d2c646a3cfb9c1c683e68eaa176"
         }
     ],
     "hashType": "sha256"

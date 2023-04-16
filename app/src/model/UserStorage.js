@@ -12,13 +12,8 @@ class UserStorage {
         const query = "SELECT ID as id, PW as pw FROM USERS WHERE ID=?;";
         return new Promise((resolve, reject)=>{
             db.query(query ,[id], (err,data)=>{ 
-                
-                if(!data[0]){
-                    reject("존재하지않는아이디!");
-                }
                 if(err){ reject(`${err}`); }
-                else resolve(data[0]);
-            
+                else resolve(data[0]);     
             });
         });
     }

@@ -1,0 +1,28 @@
+2023-04-16 18:03:33:333 [DEV] error : uncaughtException: status is not defined
+ReferenceError: status is not defined
+    at login (C:\dev\nodejsTest1\app\src\routes\home\home.ctrl.js:37:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-04-16 18:04:34:434 [DEV] error : uncaughtException: status is not defined
+ReferenceError: status is not defined
+    at login (C:\dev\nodejsTest1\app\src\routes\home\home.ctrl.js:37:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-04-16 19:07:35:735 [DEV] error : uncaughtException: status is not defined
+ReferenceError: status is not defined
+    at login (C:\dev\nodejsTest1\app\src\routes\home\home.ctrl.js:37:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-04-16 19:07:35:735 [DEV] error : uncaughtException: status is not defined
+ReferenceError: status is not defined
+    at login (C:\dev\nodejsTest1\app\src\routes\home\home.ctrl.js:37:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-04-16 19:12:10:1210 [DEV] error : uncaughtException: status is not defined
+ReferenceError: status is not defined
+    at login (C:\dev\nodejsTest1\app\src\routes\home\home.ctrl.js:37:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-04-16 19:13:31:1331 [DEV] error : uncaughtException: status is not defined
+ReferenceError: status is not defined
+    at login (C:\dev\nodejsTest1\app\src\routes\home\home.ctrl.js:37:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-04-16 19:14:14:1414 [DEV] error : uncaughtException: status is not defined
+ReferenceError: status is not defined
+    at login (C:\dev\nodejsTest1\app\src\routes\home\home.ctrl.js:37:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
