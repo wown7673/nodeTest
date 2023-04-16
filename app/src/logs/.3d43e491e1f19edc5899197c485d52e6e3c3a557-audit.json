@@ -9,6 +9,11 @@
             "date": 1681557485357,
             "name": "C:\\dev\\nodejsTest1\\app\\src\\logs\\2023-04-15.exception.log",
             "hash": "c59eb88f5afd3159bded2d9f0a648ce4e3dbbce1e3b19aa3f496d2f8eb9ba575"
+        },
+        {
+            "date": 1681572071346,
+            "name": "C:\\dev\\nodejsTest1\\app\\src\\logs\\2023-04-16.exception.log",
+            "hash": "3775b06caa8f414ac83008980fa5065e1c4e7780f1d343ee7b08fe7578557881"
         }
     ],
     "hashType": "sha256"

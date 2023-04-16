@@ -1,0 +1,276 @@
+2023-04-16 00:00:01:01 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 00:00:05:05 [DEV] info : 111 1111
+2023-04-16 00:00:05:05 [DEV] info : POST "/login" [200] : Response : "success: false, msg : 비밀번호가 틀렸습니다!"
+2023-04-16 00:21:11:2111 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 00:22:53:2253 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 00:23:29:2329 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 00:23:33:2333 [DEV] info : POST "/login" [200] : Response : "success: false, msg : undefined"
+2023-04-16 00:25:20:2520 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 00:47:22:4722 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 00:49:13:4913 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 00:49:16:4916 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 00:49:22:4922 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 00:49:27:4927 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 00:49:29:4929 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 00:49:31:4931 [DEV] info : POST "/login" [200] : Response : "success: false, msg : undefined"
+2023-04-16 00:49:36:4936 [DEV] info : POST "/login" [200] : Response : "success: false, msg : undefined"
+2023-04-16 00:49:37:4937 [DEV] info : POST "/login" [200] : Response : "success: false, msg : undefined"
+2023-04-16 00:52:13:5213 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 00:52:30:5230 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 00:52:32:5232 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 00:52:36:5236 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 00:52:38:5238 [DEV] error : POST "/login" [200] : Response : "success: false, err : Error: ER_NO_SUCH_TABLE: Table 'mysql_test.USERS1' doesn't exist"
+2023-04-16 00:52:52:5252 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 00:52:54:5254 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 00:52:58:5258 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 00:53:00:530 [DEV] error : POST "/login" [200] : Response : "success: false, err : TypeError: Cannot destructure property 'id' of '(intermediate value)' as it is undefined."
+2023-04-16 00:54:15:5415 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 00:54:29:5429 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 00:54:32:5432 [DEV] error : POST "/login" [200] : Response : "success: false, err : TypeError: Cannot destructure property 'id' of '(intermediate value)' as it is undefined."
+2023-04-16 00:55:12:5512 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 00:55:20:5520 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 00:55:23:5523 [DEV] error : POST "/login" [200] : Response : "success: false, err : TypeError: Cannot destructure property 'id' of '(intermediate value)' as it is undefined."
+2023-04-16 00:55:36:5536 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 00:55:37:5537 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 00:55:39:5539 [DEV] error : POST "/login" [200] : Response : "success: false, err : TypeError: Cannot destructure property 'id' of '(intermediate value)' as it is undefined."
+2023-04-16 00:56:37:5637 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 00:56:39:5639 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 00:56:42:5642 [DEV] error : POST "/login" [200] : Response : "success: false, err : TypeError: Cannot destructure property 'id' of '(intermediate value)' as it is undefined."
+2023-04-16 00:56:56:5656 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 00:56:58:5658 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 00:57:00:570 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 00:57:00:570 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 00:57:00:570 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 00:57:02:572 [DEV] error : POST "/login" [200] : Response : "success: false, err : TypeError: Cannot destructure property 'id' of '(intermediate value)' as it is undefined."
+2023-04-16 00:57:38:5738 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 00:57:40:5740 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 00:57:40:5740 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 00:57:40:5740 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 00:57:43:5743 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 00:58:01:581 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 00:58:05:585 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 00:58:09:589 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 00:58:11:5811 [DEV] error : POST "/login" [200] : Response : "success: false, err : TypeError: Cannot destructure property 'id' of '(intermediate value)' as it is undefined."
+2023-04-16 00:59:04:594 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 00:59:06:596 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 00:59:06:596 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 00:59:06:596 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 00:59:07:597 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 00:59:10:5910 [DEV] error : POST "/login" [200] : Response : "success: false, err : TypeError: Cannot destructure property 'id' of '(intermediate value)' as it is undefined."
+2023-04-16 00:59:14:5914 [DEV] info : POST "/login" [200] : Response : "success: true, msg : undefined"
+2023-04-16 00:59:14:5914 [DEV] info : GET "/" [200] : "홈화면으로 이동"
+2023-04-16 00:59:44:5944 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 00:59:47:5947 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 00:59:48:5948 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 00:59:49:5949 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 00:59:51:5951 [DEV] error : POST "/login" [200] : Response : "success: false, err : TypeError: Cannot destructure property 'id' of '(intermediate value)' as it is undefined."
+2023-04-16 01:00:13:013 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 01:00:15:015 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 01:00:15:015 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 01:00:17:017 [DEV] error : POST "/login" [200] : Response : "success: false, err : TypeError: Cannot destructure property 'id' of '(intermediate value)' as it is undefined."
+2023-04-16 01:00:22:022 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 01:02:49:249 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 01:02:51:251 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 01:02:52:252 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 01:02:53:253 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 01:02:56:256 [DEV] error : POST "/login" [200] : Response : "success: false, err : TypeError: Cannot destructure property 'id' of '(intermediate value)' as it is undefined."
+2023-04-16 01:05:10:510 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 01:05:13:513 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 01:05:13:513 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 01:05:16:516 [DEV] error : POST "/login" [200] : Response : "success: false, err : TypeError: Cannot destructure property 'id' of '(intermediate value)' as it is undefined."
+2023-04-16 01:05:23:523 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 01:05:27:527 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 01:05:29:529 [DEV] error : POST "/login" [200] : Response : "success: false, err : TypeError: Cannot destructure property 'id' of '(intermediate value)' as it is undefined."
+2023-04-16 01:05:34:534 [DEV] info : POST "/login" [200] : Response : "success: false, msg : 비밀번호가 틀렸습니다!"
+2023-04-16 01:05:37:537 [DEV] info : POST "/login" [200] : Response : "success: false, msg : 비밀번호가 틀렸습니다!"
+2023-04-16 01:05:41:541 [DEV] error : POST "/login" [200] : Response : "success: false, err : TypeError: Cannot destructure property 'id' of '(intermediate value)' as it is undefined."
+2023-04-16 01:08:35:835 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 01:09:20:920 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 01:09:22:922 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 01:09:22:922 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 01:09:23:923 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 01:09:25:925 [DEV] info : 안녕 TypeError: Cannot destructure property 'id' of '(intermediate value)' as it is undefined.
+2023-04-16 01:09:25:925 [DEV] error : POST "/login" [200] : Response : "success: false, err : TypeError: Cannot destructure property 'id' of '(intermediate value)' as it is undefined."
+2023-04-16 01:09:49:949 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 01:09:50:950 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 01:09:50:950 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 01:09:51:951 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 01:09:53:953 [DEV] info : 안녕 Error: ER_NO_SUCH_TABLE: Table 'mysql_test.USERS1' doesn't exist
+2023-04-16 01:09:53:953 [DEV] error : POST "/login" [200] : Response : "success: false, err : Error: ER_NO_SUCH_TABLE: Table 'mysql_test.USERS1' doesn't exist"
+2023-04-16 01:10:19:1019 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 01:10:39:1039 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 01:10:41:1041 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 01:10:41:1041 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 01:10:41:1041 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 01:10:44:1044 [DEV] info : 안녕 TypeError: Cannot destructure property 'id' of '(intermediate value)' as it is undefined.
+2023-04-16 01:10:44:1044 [DEV] error : POST "/login" [200] : Response : "success: false, err : TypeError: Cannot destructure property 'id' of '(intermediate value)' as it is undefined."
+2023-04-16 01:11:10:1110 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 01:11:12:1112 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 01:11:12:1112 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 01:11:12:1112 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 01:11:15:1115 [DEV] info : 안녕 TypeError: Cannot destructure property 'id' of '(intermediate value)' as it is undefined.
+2023-04-16 01:11:15:1115 [DEV] error : POST "/login" [200] : Response : "success: false, err : TypeError: Cannot destructure property 'id' of '(intermediate value)' as it is undefined."
+2023-04-16 01:11:18:1118 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 01:11:20:1120 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 01:11:20:1120 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 01:11:20:1120 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 01:11:22:1122 [DEV] info : 안녕 TypeError: Cannot destructure property 'id' of '(intermediate value)' as it is undefined.
+2023-04-16 01:11:22:1122 [DEV] error : POST "/login" [200] : Response : "success: false, err : TypeError: Cannot destructure property 'id' of '(intermediate value)' as it is undefined."
+2023-04-16 01:11:43:1143 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 01:11:45:1145 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 01:11:45:1145 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 01:11:45:1145 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 01:11:47:1147 [DEV] info : 안녕 TypeError: Cannot destructure property 'id' of '(intermediate value)' as it is undefined.
+2023-04-16 01:11:47:1147 [DEV] error : POST "/login" [200] : Response : "success: false, err : TypeError: Cannot destructure property 'id' of '(intermediate value)' as it is undefined."
+2023-04-16 01:11:54:1154 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 01:12:18:1218 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 01:12:41:1241 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 01:12:43:1243 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 01:12:44:1244 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 01:12:44:1244 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 01:12:46:1246 [DEV] error : POST "/login" [200] : Response : "success: false, err : TypeError: Cannot destructure property 'id' of '(intermediate value)' as it is undefined."
+2023-04-16 01:13:05:135 [DEV] error : POST "/login" [200] : Response : "success: false, err : TypeError: Cannot destructure property 'id' of '(intermediate value)' as it is undefined."
+2023-04-16 01:13:15:1315 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 01:13:16:1316 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 01:13:17:1317 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 01:13:17:1317 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 01:13:18:1318 [DEV] error : POST "/login" [200] : Response : "success: false, err : TypeError: Cannot destructure property 'id' of '(intermediate value)' as it is undefined."
+2023-04-16 01:13:38:1338 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 08:54:09:549 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 08:54:14:5414 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 08:54:17:5417 [DEV] error : POST "/login" [200] : Response : "success: false, err : TypeError: Cannot destructure property 'id' of '(intermediate value)' as it is undefined."
+2023-04-16 08:56:05:565 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 08:56:13:5613 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 08:56:15:5615 [DEV] error : POST "/login" [200] : Response : "success: false, err : TypeError: Cannot destructure property 'id' of '(intermediate value)' as it is undefined."
+2023-04-16 08:56:40:5640 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 08:56:45:5645 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 08:56:47:5647 [DEV] error : POST "/login" [200] : Response : "success: false, err : TypeError: Cannot destructure property 'id' of '(intermediate value)' as it is undefined."
+2023-04-16 08:57:34:5734 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 08:57:37:5737 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 08:57:39:5739 [DEV] error : POST "/login" [200] : Response : "success: false, err : TypeError: Cannot destructure property 'id' of '(intermediate value)' as it is undefined."
+2023-04-16 08:58:25:5825 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 08:58:27:5827 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 08:58:28:5828 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 08:58:31:5831 [DEV] error : POST "/login" [200] : Response : "success: false, err : null"
+2023-04-16 08:58:43:5843 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 08:58:46:5846 [DEV] error : POST "/login" [200] : Response : "success: false, err : null"
+2023-04-16 08:59:40:5940 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 08:59:43:5943 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 08:59:45:5945 [DEV] error : POST "/login" [200] : Response : "success: false, err : null"
+2023-04-16 08:59:50:5950 [DEV] error : POST "/login" [200] : Response : "success: false, err : null"
+2023-04-16 09:00:41:041 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 09:00:44:044 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 09:00:46:046 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 09:00:48:048 [DEV] error : POST "/login" [200] : Response : "success: false, err : 존재하지않는아이디!"
+2023-04-16 09:01:18:118 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 09:01:22:122 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 09:01:25:125 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 09:01:30:130 [DEV] error : POST "/login" [200] : Response : "success: false, err : 존재하지않는아이디!"
+2023-04-16 09:01:40:140 [DEV] info : POST "/login" [200] : Response : "success: false, msg : 비밀번호가 틀렸습니다!"
+2023-04-16 09:01:56:156 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 09:01:58:158 [DEV] info : POST "/login" [200] : Response : "success: true, msg : undefined"
+2023-04-16 09:01:58:158 [DEV] info : GET "/" [200] : "홈화면으로 이동"
+2023-04-16 09:02:18:218 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 09:02:22:222 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 09:02:24:224 [DEV] info : POST "/login" [200] : Response : "success: true, msg : undefined"
+2023-04-16 09:02:24:224 [DEV] info : GET "/" [200] : "홈화면으로 이동"
+2023-04-16 09:02:38:238 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 09:02:42:242 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 09:02:45:245 [DEV] info : POST "/login" [200] : Response : "success: true, msg : undefined"
+2023-04-16 09:02:45:245 [DEV] info : GET "/" [200] : "홈화면으로 이동"
+2023-04-16 09:03:20:320 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 09:03:35:335 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 09:03:38:338 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 09:03:41:341 [DEV] info : POST "/login" [200] : Response : "success: true, msg : undefined"
+2023-04-16 09:03:41:341 [DEV] info : GET "/" [200] : "홈화면으로 이동"
+2023-04-16 09:03:48:348 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 09:04:23:423 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 09:05:16:516 [DEV] info : GET "/register" [200] : "회원가입화면으로 이동"
+2023-04-16 09:05:19:519 [DEV] info : GET "/register" [200] : "회원가입화면으로 이동"
+2023-04-16 09:05:23:523 [DEV] info : POST "/register" [200] : Response : "success: true, msg : undefined"
+2023-04-16 09:05:23:523 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 09:05:49:549 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 09:05:52:552 [DEV] info : GET "/register" [200] : "회원가입화면으로 이동"
+2023-04-16 09:05:56:556 [DEV] info : POST "/register" [200] : Response : "success: true, msg : 1f1ffff"
+2023-04-16 09:05:56:556 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 09:06:39:639 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 09:07:03:73 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 09:07:07:77 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 09:07:09:79 [DEV] info : GET "/register" [200] : "회원가입화면으로 이동"
+2023-04-16 09:07:12:712 [DEV] info : POST "/register" [200] : Response : "success: true, msg : ffwww 가입완료!"
+2023-04-16 09:07:12:712 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 09:07:29:729 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 09:07:32:732 [DEV] info : GET "/register" [200] : "회원가입화면으로 이동"
+2023-04-16 09:07:35:735 [DEV] info : POST "/register" [200] : Response : "success: true, msg : [object Object]"
+2023-04-16 09:07:35:735 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 09:08:44:844 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 09:08:51:851 [DEV] info : GET "/register" [200] : "회원가입화면으로 이동"
+2023-04-16 09:08:55:855 [DEV] info : POST "/register" [200] : Response : "success: true, msg : ㅍㅇㅍㅇ 가입완료!"
+2023-04-16 09:08:55:855 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 09:09:07:97 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 09:30:20:3020 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 09:30:24:3024 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 09:32:17:3217 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 09:32:19:3219 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 09:32:20:3220 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 09:32:24:3224 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 09:33:35:3335 [DEV] info : POST "/login" [200] : Response : "success: false, msg : 비밀번호가 틀렸습니다!"
+2023-04-16 09:33:45:3345 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 09:33:54:3354 [DEV] info : GET "/register" [200] : "회원가입화면으로 이동"
+2023-04-16 09:33:57:3357 [DEV] info : POST "/register" [200] : Response : "success: true, msg : 12121 가입완료!"
+2023-04-16 09:33:57:3357 [DEV] info : GET "/login" [200] : "로그인화면으로 이동"
+2023-04-16 09:34:13:3413 [DEV] info : GET "/register" [200] : "회원가입화면으로 이동"
+2023-04-16 09:55:09:559 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 09:55:12:5512 [DEV] info : GET "/register" [200] : "회원가입화면으로 이동"
+2023-04-16 09:55:55:5555 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 09:56:00:560 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 10:17:49:1749 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 10:18:06:186 [DEV] info : GET "/register" [200] : "회원가입화면으로 이동"
+2023-04-16 10:18:23:1823 [DEV] info : POST "/register" [200] : Response : "success: false, msg : undefined"
+2023-04-16 10:18:30:1830 [DEV] info : POST "/register" [200] : Response : "success: false, msg : undefined"
+2023-04-16 10:20:09:209 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 10:20:20:2020 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 10:26:57:2657 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 10:27:08:278 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 10:27:10:2710 [DEV] info : POST "/register" [200] : Response : "success: false, msg : undefined"
+2023-04-16 10:27:15:2715 [DEV] info : GET "/register" [200] : "회원가입화면으로 이동"
+2023-04-16 10:27:19:2719 [DEV] info : POST "/register" [200] : Response : "success: false, msg : undefined"
+2023-04-16 10:28:40:2840 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 10:28:44:2844 [DEV] info : POST "/register" [200] : Response : "success: false, err : undefined"
+2023-04-16 10:28:47:2847 [DEV] info : GET "/register" [200] : "회원가입화면으로 이동"
+2023-04-16 10:28:50:2850 [DEV] info : POST "/register" [200] : Response : "success: false, err : undefined"
+2023-04-16 10:28:58:2858 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 10:29:00:290 [DEV] error : POST "/register" [200] : Response : "success: false, err : undefined"
+2023-04-16 10:29:11:2911 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 10:29:13:2913 [DEV] error : POST "/register" [200] : Response : "success: false, err : Error: ER_DUP_ENTRY: Duplicate entry '111' for key 'USERS.PRIMARY'"
+2023-04-16 10:30:17:3017 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 10:31:09:319 [DEV] error : POST "/register" [200] : Response : "success: false, err : Error: ER_DUP_ENTRY: Duplicate entry '111' for key 'USERS.PRIMARY'"
+2023-04-16 10:31:29:3129 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 10:31:35:3135 [DEV] error : POST "/register" [200] : Response : "success: false, err : Error: ER_DUP_ENTRY: Duplicate entry '111' for key 'USERS.PRIMARY'"
+2023-04-16 10:33:10:3310 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 10:35:41:3541 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 10:35:43:3543 [DEV] error : POST "/register" [200] : Response : "success: false, err : Error: ER_DUP_ENTRY: Duplicate entry '111' for key 'USERS.PRIMARY'"
+2023-04-16 10:35:59:3559 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 10:36:01:361 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 10:36:03:363 [DEV] error : POST "/register" [200] : Response : "success: false, err : Error: ER_DUP_ENTRY: Duplicate entry '111' for key 'USERS.PRIMARY'"
+2023-04-16 11:57:03:573 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 11:57:07:577 [DEV] error : POST "/register" [200] : Response : "success: false, err : Error: ER_DUP_ENTRY: Duplicate entry '111' for key 'USERS.PRIMARY'"
+2023-04-16 11:58:54:5854 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 11:59:00:590 [DEV] error : POST "/register" [200] : Response : "success: false, err : Error: ER_DUP_ENTRY: Duplicate entry '111' for key 'USERS.PRIMARY'"
+2023-04-16 11:59:19:5919 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 11:59:22:5922 [DEV] error : POST "/register" [200] : Response : "success: false, err : Error: ER_DUP_ENTRY: Duplicate entry '111' for key 'USERS.PRIMARY'"
+2023-04-16 12:00:01:01 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 12:00:04:04 [DEV] error : POST "/register" [200] : Response : "success: false, err : Error: ER_DUP_ENTRY: Duplicate entry '111' for key 'USERS.PRIMARY'"
+2023-04-16 12:02:34:234 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 12:02:41:241 [DEV] error : POST "/register" [200] : Response : "success: false, err : Error: ER_DUP_ENTRY: Duplicate entry '111' for key 'USERS.PRIMARY'"
+2023-04-16 12:03:04:34 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 12:03:07:37 [DEV] error : POST "/register" [200] : Response : "success: false, err : Error: ER_DUP_ENTRY: Duplicate entry '111' for key 'USERS.PRIMARY'"
+2023-04-16 12:03:08:38 [DEV] info : GET "/register" [200] : "회원가입화면으로 이동"
+2023-04-16 12:04:26:426 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 12:04:33:433 [DEV] error : POST "/register" [200] : Response : "success: false, err : 아이디가 중복 되었습니다"
+2023-04-16 12:04:49:449 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 12:05:04:54 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 12:05:10:510 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 12:05:16:516 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 12:05:23:523 [DEV] info : 7673 포트 서버 가동!
+2023-04-16 12:05:27:527 [DEV] info : 7673 포트 서버 가동!

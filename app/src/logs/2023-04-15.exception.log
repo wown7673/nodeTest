@@ -24,3 +24,38 @@ ReferenceError: timestamp1 is not defined
     at DerivedLogger.ondata (C:\dev\nodejsTest1\app\node_modules\winston\node_modules\readable-stream\lib\_stream_readable.js:629:20)
     at DerivedLogger.emit (node:events:524:35)
     at addChunk (C:\dev\nodejsTest1\app\node_modules\winston\node_modules\readable-stream\lib\_stream_readable.js:279:12)
+2023-04-15 22:10:04:104 [DEV] error : uncaughtException: Cannot destructure property 'id' of '(intermediate value)' as it is undefined.
+TypeError: Cannot destructure property 'id' of '(intermediate value)' as it is undefined.
+    at User.login (C:\dev\nodejsTest1\app\src\model\User.js:12:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async login (C:\dev\nodejsTest1\app\src\routes\home\home.ctrl.js:27:26)
+2023-04-15 22:10:07:107 [DEV] error : uncaughtException: Cannot destructure property 'id' of '(intermediate value)' as it is undefined.
+TypeError: Cannot destructure property 'id' of '(intermediate value)' as it is undefined.
+    at User.login (C:\dev\nodejsTest1\app\src\model\User.js:12:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async login (C:\dev\nodejsTest1\app\src\routes\home\home.ctrl.js:27:26)
+2023-04-15 22:10:29:1029 [DEV] error : uncaughtException: Cannot destructure property 'id' of '(intermediate value)' as it is undefined.
+TypeError: Cannot destructure property 'id' of '(intermediate value)' as it is undefined.
+    at User.login (C:\dev\nodejsTest1\app\src\model\User.js:12:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async login (C:\dev\nodejsTest1\app\src\routes\home\home.ctrl.js:27:26)
+2023-04-15 22:10:32:1032 [DEV] error : uncaughtException: Cannot destructure property 'id' of '(intermediate value)' as it is undefined.
+TypeError: Cannot destructure property 'id' of '(intermediate value)' as it is undefined.
+    at User.login (C:\dev\nodejsTest1\app\src\model\User.js:12:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async login (C:\dev\nodejsTest1\app\src\routes\home\home.ctrl.js:27:26)
+2023-04-15 22:13:27:1327 [DEV] error : uncaughtException: Cannot destructure property 'id' of '(intermediate value)' as it is undefined.
+TypeError: Cannot destructure property 'id' of '(intermediate value)' as it is undefined.
+    at User.login (C:\dev\nodejsTest1\app\src\model\User.js:12:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async login (C:\dev\nodejsTest1\app\src\routes\home\home.ctrl.js:27:26)
+2023-04-15 22:14:19:1419 [DEV] error : uncaughtException: Cannot destructure property 'id' of '(intermediate value)' as it is undefined.
+TypeError: Cannot destructure property 'id' of '(intermediate value)' as it is undefined.
+    at User.login (C:\dev\nodejsTest1\app\src\model\User.js:12:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async login (C:\dev\nodejsTest1\app\src\routes\home\home.ctrl.js:27:26)
+2023-04-15 22:15:43:1543 [DEV] error : uncaughtException: Cannot destructure property 'id' of '(intermediate value)' as it is undefined.
+TypeError: Cannot destructure property 'id' of '(intermediate value)' as it is undefined.
+    at User.login (C:\dev\nodejsTest1\app\src\model\User.js:12:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async login (C:\dev\nodejsTest1\app\src\routes\home\home.ctrl.js:28:26)
