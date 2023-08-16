@@ -8,6 +8,7 @@ const btn = document.querySelector("#btn");
 
 btn.addEventListener("click", register);
 
+// 안녕~
 function register(e){
 
     //if() 필수입력값 체크..
